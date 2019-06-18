@@ -10,6 +10,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - "Brownie" and "Judy" guinea pig character models.
 - Guinea pig character model selection.
 - Unlock legacy guinea pig character models.
+- Android release.
+- iOS release.
 
 ## [1.0.0] - 2019-06-18
 ### Added
